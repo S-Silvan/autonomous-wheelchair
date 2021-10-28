@@ -8,3 +8,6 @@ Designed an autonomous wheelchair which can generate its own map while traversin
 ### Software
 * Python
 * Embedded C
+## Contributers
+* Surendar
+* Thirunavukarasu
